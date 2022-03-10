@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.kanyordle.com/static/css/main.c68f43c0.css",
-    "main.js": "/www.kanyordle.com/static/js/main.708d72f2.js",
-    "static/js/787.b3f9d252.chunk.js": "/www.kanyordle.com/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/www.kanyordle.com/index.html",
-    "main.c68f43c0.css.map": "/www.kanyordle.com/static/css/main.c68f43c0.css.map",
-    "main.708d72f2.js.map": "/www.kanyordle.com/static/js/main.708d72f2.js.map",
-    "787.b3f9d252.chunk.js.map": "/www.kanyordle.com/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/kanyordle/static/css/main.c68f43c0.css",
+    "main.js": "/kanyordle/static/js/main.c339dbe6.js",
+    "static/js/787.b3f9d252.chunk.js": "/kanyordle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/kanyordle/index.html",
+    "main.c68f43c0.css.map": "/kanyordle/static/css/main.c68f43c0.css.map",
+    "main.c339dbe6.js.map": "/kanyordle/static/js/main.c339dbe6.js.map",
+    "787.b3f9d252.chunk.js.map": "/kanyordle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c68f43c0.css",
-    "static/js/main.708d72f2.js"
+    "static/js/main.c339dbe6.js"
   ]
 }
